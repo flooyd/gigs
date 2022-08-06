@@ -49,7 +49,7 @@
 
 <style>
   h1 {
-    font-size: 20px;
+    font-size: 25px;
   }
 
   p {
