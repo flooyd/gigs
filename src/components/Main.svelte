@@ -31,7 +31,6 @@
   p {
     margin: 20px 0px;
     text-align: center;
-    font-weight: bold;
   }
 
   .serviceContainer {
