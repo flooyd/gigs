@@ -39,6 +39,7 @@
     text-align: left;
     border: 3px solid #333;
     padding: 13px;
+    border-radius: 5px;
   }
 
   .service {
