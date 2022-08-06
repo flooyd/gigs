@@ -2,7 +2,6 @@
   import loginOrRegister from "../stores/auth";
   import Auth from "./Auth.svelte";
   import LoginForm from "./LoginForm.svelte";
-  $loginOrRegister = "login";
 </script>
 
 <main>
